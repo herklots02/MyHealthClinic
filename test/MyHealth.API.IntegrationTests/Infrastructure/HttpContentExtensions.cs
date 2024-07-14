@@ -2,6 +2,8 @@
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 
+//This sucks
+
 namespace MyHealth.API.Infrastructure
 {
     public static class HttpContentExtensions
